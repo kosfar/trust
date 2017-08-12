@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'Linux Biolinum';
 	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
+	src: url('LinBiolinum_R.otf') format('opentype');
 }
 
 html,body{
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'LinuxBiolinum';
 	color: #333;
 	font-size: 20px;
 
