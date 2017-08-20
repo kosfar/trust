@@ -44,7 +44,7 @@ Translations done so far:
 [Russian](https://likzet.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust)
+[Turkish](https://osaatcioglu.github.io/trust),
 [Greek](https://lightspot21.github.io/trust)
 
 
