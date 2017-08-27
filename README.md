@@ -29,7 +29,7 @@
 * [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
 * [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
 
-**Font:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
+**Font:** [Linux Biolinum](http://www.dafont.com/linux-biolinum.font) by Philipp Poll
 
 #	How-To: Translate this thang!
 
@@ -44,7 +44,9 @@ Translations done so far:
 [Russian](https://likzet.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust)
+[Turkish](https://osaatcioglu.github.io/trust),
+[Greek](https://lightspot21.github.io/trust)
+
 
 **Step 1)** Fork or download this repo    
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
